@@ -1,0 +1,23 @@
+[
+    {   
+        "title": "Ozzie,la jirafa que pinta cuadros entre leones",
+        "date": "29/05/2017",
+        "img": "../img/jirafa.jpg",
+        "alt": "Ozzie",
+        "desc": "Pocas jirafas pueden presumir del talento con el que nació Ozzie, un mamífero de tres años que pinta en un santuario para leones de Nevada, EE. UU., y cuyas obras, por si fuera poco, se comercializan razonablemente bien."
+    },
+    {
+        "title": "Acupuntura para mascotas: pinchazos de amor y bienestar",
+        "date": " 26/05/2017",
+        "img": "../img/gato.jpg",
+        "alt": "Acupuntura",
+        "desc": "En la búsqueda del bienestar de nuestra mascotas, hay alternativas, como la acupuntura, que sirven para el tratamiento de toda clase de patologías."
+    },
+    {   
+        "title": "Leon marino arrastra al agua a una niña",
+        "date": "22/05/2017",
+        "img": "../img/leon.jpg",
+        "alt": "leon",
+        "desc": "Un video de teléfono celular capturó el rescate efectuado por un hombre a una niña que fue arrastrada al mar por un leon marino. El episodio ocurrió en el muelle de Richmond, en Canadá, cuando un grupo de turistas alimentaba al animal."
+    }
+]
