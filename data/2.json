@@ -2,21 +2,21 @@
     {   
         "title": "El pato australiano que podría ser el más grande del mundo",
         "date": "19/05/2017",
-        "img": "../img/pato.jpg",
+        "img": "img/pato.jpg",
         "alt": "pato",
         "desc": "Un pato australiano podría ser reconocido como el más grande del mundo si los encargados del libro de récords Guinness así lo comprueban."
     },
     {
         "title": "La belleza desconocida de los animales albinos",
         "date": " 05/05/2017",
-        "img": "../img/mono.jpg",
+        "img": "img/mono.jpg",
         "alt": "Orangutan",
         "desc": "Un raro orangután albino de cinco años de edad después de ser rescatado por las autoridades en el distrito de Kapuas Hulu, provincia de Kalimantan Central en Indonesia. El animal estaba en cautiverio."
     },
     {   
         "title": " Las especies más llamativas descubiertas en el 2016",
         "date": "18/05/2017",
-        "img": "../img/bicho.jpg",
+        "img": "img/bicho.jpg",
         "alt": "Animal extraño",
         "desc": "La araña 'Eriovixia gryffindori' fue hallada en la India y recibe su nombre en honor a la saga 'Harry Potter'. La forma de la cola de la araña se asemeja al sombrero seleccionador que aparece en los libros y películas."
     }
