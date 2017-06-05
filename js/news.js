@@ -33,6 +33,6 @@ function cargarNoticias(){
 //metodo de insertar la noticia dentro del HTML usando el objeto noticia.
 function insertarNoticia(json){
    $.each(json, function(i,noticia){
-$("#noticias").append("<hr><div id='imgDiv'><img class='img-thumbnail' id='imgNoticia' src="+noticia.img+"alt="+noticia.alt+"></div><div id='news' class='container' id='cuerpo'><a href='#'><h3>"+noticia.title+"</h3></a><p>"+noticia.desc+"</p><footer id='date' class='small'>"+noticia.date+"</footer></div>");
+$("#noticias").append("<hr><div id='imgDiv'><img class='img-thumbnail' id='imgNoticia' src="+noticia.img+" alt="+noticia.alt+"></div><div id='news' class='container' id='cuerpo'><a href='#'><h3>"+noticia.title+"</h3></a><p>"+noticia.desc+"</p><footer id='date' class='small'>"+noticia.date+"</footer></div>");
     })
 }
