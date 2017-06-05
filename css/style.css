@@ -21,7 +21,7 @@ body{height: 100% !important; }
 #pubM{display:none;}
 /*Css para movil */
 @media only screen and (max-width: 768px) {
-#imgbg{display:block;margin:auto;max-width: 300px;margin-bottom: 20px;}
+#imgbg{display:block;margin:auto;max-width: 100%;margin-bottom: 20px;}
 #pubD{display: none;}
 #news{width:100%;}
 #pubM{display:block; margin-bottom: 15px;height: 90px;}
