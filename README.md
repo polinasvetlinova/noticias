@@ -26,6 +26,9 @@ http://i.imgur.com/dabDKi1.jpg
 - [X] OG para las páginas en social media.
 
 # Progreso del proyecto y como se realizo:
+#### Version 5:
+- Optimización de imagenes.
+- Añadido "fav.ico" para la página.
 
 #### Version 4:
 - Programado news.js para cargar más noticias en JQUERY.

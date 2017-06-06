@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 
 <channel>
-    <title>NoticiasNET</title>
-    <link>https://rawgit.com/pacho21/noticiasweb/master/index.html</link>
-    <description>Noticias que es gestionada por personas que no sabían muy bien de que iba esto del periodismo!</description>
+    <title>El Mundo Animal</title>
+    <link>https://rawgit.com/polinasvetlinova/noticias/master/index.html</link>
+    <description>El mundo animal recoge noticias sobre animales y les da una especial importancia a las mascotas.</description>
 
     <item>
-    	<title>Nuevo Termo Contigo</title>
-    	<link>https://rawgit.com/pacho21/noticiasweb/master/new1.html</link>
-    	<description>El nuevo termo ya esta disponible para su compra este viernes.</description>
+    	<title>Westie el mejor buscador de ratones</title>
+    	<link>https://rawgit.com/polinasvetlinova/noticias/master/index.html</link>
+    	<description>Este pequeño perro de raza escocesa es un fiable buscador y cazador de ratones. Además son muy tiernos a la hora de ser entrenados..</description>
     </item>
 
     <item>
-    	<title>Ronaldo gana La Liga Santander</title>
-    	<link>https://rawgit.com/pacho21/noticiasweb/master/new2.html</link>
-    	<description>CR7 Consigue su segunda liga como jugador del Real Madrid</description>
+    	<title>Nacen 5 gatitos azul ingleses!</title>
+    	<link>https://rawgit.com/polinasvetlinova/noticias/master/myau.html</link>
+    	<description>La raza más apreciada de los felinos, la azul inglesa, ha dado hoy a luz 5 nuevos gatitos fluffy.</description>
     </item>
 </channel>
 </rss>
